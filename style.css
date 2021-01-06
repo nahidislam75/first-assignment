@@ -28,7 +28,7 @@ section{
 }
 .for-margin{
     padding: 100px;
-    background-color: wheat;
+    background-color: whitesmoke;
 }
 .half-width{
     width: 32%;
@@ -40,7 +40,7 @@ section{
     width: 100%;
 }
 .for-background{
-    background-color: whitesmoke;
+    background-color: white;
 }
 .first-button{
     text-decoration: none;
@@ -80,5 +80,39 @@ p{
     box-shadow: 10px 10px 40px lightgray;
     border-radius: 10px;
     height: 80%;
+    background-color:white;
+}
+.last-image{
+    background-image: url("images/Group_33094_1.png");
+    width: 70%;
+    height: 100%;
+    background-repeat:no-repeat;
+    margin: auto;
+    background-size: 100%;
+}
+.last-section{
+    margin: auto;
     background-color: white;
+    height: 300px;
+}
+.last-class{
+    width: 32%;
+    float: left;
+    padding-left: 5%;
+    margin-left: 7%;
+}
+h5{
+    font-size: 40px;
+    padding:30px;
+}
+.final-button{
+    text-decoration: none;
+    padding: 15px 50px;
+    background-image: linear-gradient(45deg,rgb(241, 91, 65),rgb(201, 98, 84));
+    border-radius: 10px;
+    color: white;
+    float: right;
+}
+.for-text-align{
+    text-align: center;
 }
