@@ -23,7 +23,7 @@ h2{
     color: #050566;
 }
 section{
-    height: 500px;
+    height: 600px;
     padding-bottom: 100px;
 }
 .for-margin{
@@ -41,6 +41,7 @@ section{
 }
 .for-background{
     background-color: white;
+    height:450px;
 }
 .first-button{
     text-decoration: none;
