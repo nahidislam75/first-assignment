@@ -23,17 +23,21 @@ h2{
     color: #050566;
 }
 section{
-    height: 500px;
+    height: 600px;
     padding-bottom: 100px;
 }
 .for-margin{
-    margin: 100px;
+    padding: 100px;
+    background-color: wheat;
 }
 .half-width{
     width: 32%;
     float: left;
     padding-left: 5%;
     margin-left: 7%;
+}
+.half-width img{
+    width: 100%;
 }
 .for-background{
     background-color: whitesmoke;
@@ -47,6 +51,9 @@ section{
 }
 h3{
     font-size: 40px;
+}
+h4{
+    font-size: 25px;
 }
 p{
     font-size: 23px;
@@ -64,6 +71,9 @@ p{
     padding: 2%;
     margin: 1%;
 
+}
+.three-width img{
+    width: 100%;
 }
 
 .new-images{
