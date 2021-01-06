@@ -116,3 +116,19 @@ h5{
 .for-text-align{
     text-align: center;
 }
+.first-unorder{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color:white;}
+.first-list{
+    float: right;
+}
+.first-list a{
+    display: inline;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    font-size: 25px;
+    text-decoration: none;
+}
