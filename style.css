@@ -4,6 +4,10 @@ body{
 font-family: 'Cabin', sans-serif;
 font-family: 'Nunito Sans', sans-serif;
 }
+h2{
+    text-align: center;
+    font-size: 40px;
+}
 .first-word{
     color: #050566;
     font-size: 80px;
@@ -12,18 +16,27 @@ font-family: 'Nunito Sans', sans-serif;
     color: salmon;
     font-size: 60px;
 }
+.third-word{
+    color: darksalmon;
+}
+.forth-word{
+    color: #050566;
+}
 section{
     height: 500px;
-    padding-bottom: 50px;
+    padding-bottom: 100px;
+}
+.for-margin{
+    margin: 100px;
 }
 .half-width{
-    width: 35%;
+    width: 32%;
     float: left;
-    padding: 5%;
-    margin-left: 5%;
+    padding-left: 5%;
+    margin-left: 7%;
 }
-.half-width img{
-    width: 100%;
+.for-background{
+    background-color: whitesmoke;
 }
 .first-button{
     text-decoration: none;
@@ -46,17 +59,16 @@ p{
     color: white;
 }
 .three-width{
-    width: 20%;
+    width:27%;
     float: left;
-    padding-left: 2%;
-    margin-left: 1%;
+    padding: 2%;
+    margin: 1%;
+
 }
-.three-width img{
-    width: 100%;
-}
+
 .new-images{
-    box-shadow: 10px 10px 40px gray;
-    border-radius: 5px;
+    box-shadow: 10px 10px 40px lightgray;
+    border-radius: 10px;
     height: 80%;
     background-color: white;
 }
